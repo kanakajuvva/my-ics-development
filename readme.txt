@@ -4,3 +4,6 @@ the website: http://omappedia.org/wiki/L27.IS.2.P1_OMAP4_Icecream_Sandwich_Relea
 
 and build your sources.
 
+login for virtualmachine:kjuvva
+passwd: kjuvva
+
